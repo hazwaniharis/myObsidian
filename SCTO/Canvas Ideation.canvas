@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"f85d14e8baf8a0f4","type":"file","file":"__Media/Octalysis.png","x":61,"y":-200,"width":400,"height":400},
+		{"id":"fe6aa59cc412556e","type":"text","text":"GAMIFICATION OCTALYSIS","x":276,"y":-366,"width":185,"height":66},
+		{"id":"43de0d2e27f8f988","type":"text","text":"GAMIFICATION FOR MHEALTH","x":-480,"y":-358,"width":250,"height":58,"color":"2"},
+		{"id":"9463a6a3ecc12561","type":"file","file":"__Papers/The Wheel of Sukr.pdf","x":-500,"y":-200,"width":400,"height":400},
+		{"id":"87217f4735b3e1e3","type":"text","text":"Evaluate using octalysis\n","x":-80,"y":-140,"width":125,"height":80},
+		{"id":"a7d34235081eeb47","x":-500,"y":300,"width":400,"height":400,"type":"file","file":"Sukr 2015.md"},
+		{"id":"e38911a7f744281f","x":45,"y":288,"width":605,"height":424,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BqyvUvxOx0M?si=Mjy77t2Xmh8qvpm5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>[What is Gamification? A Few Ideas.](https://www.youtube.com/watch?v=BqyvUvxOx0M)\n"}
+	],
+	"edges":[
+		{"id":"94964acd71b42823","fromNode":"fe6aa59cc412556e","fromSide":"bottom","toNode":"f85d14e8baf8a0f4","toSide":"top"},
+		{"id":"2f770940b80bf799","fromNode":"43de0d2e27f8f988","fromSide":"bottom","toNode":"9463a6a3ecc12561","toSide":"top"},
+		{"id":"179f280ddbc6809b","fromNode":"f85d14e8baf8a0f4","fromSide":"left","toNode":"9463a6a3ecc12561","toSide":"right"},
+		{"id":"0e2aa938e386d07f","fromNode":"9463a6a3ecc12561","fromSide":"left","toNode":"a7d34235081eeb47","toSide":"left"},
+		{"id":"12515d7294b65400","fromNode":"a7d34235081eeb47","fromSide":"right","toNode":"e38911a7f744281f","toSide":"left"},
+		{"id":"784a9e15fa1a86c3","fromNode":"f85d14e8baf8a0f4","fromSide":"right","toNode":"e38911a7f744281f","toSide":"right"}
+	]
+}

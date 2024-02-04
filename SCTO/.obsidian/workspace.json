@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a9a72e2f0c050de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f148c52e61946e54",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3759a85df437b6e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas Ideation.canvas",
+                "viewState": {
+                  "x": -19.5,
+                  "y": 327.60654977052627,
+                  "zoom": -0.7739963251111732
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas Ideation.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas Ideation.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas Ideation.canvas"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "zotero-sync-client:Sync with Zotero": false
+    }
+  },
+  "active": "c3759a85df437b6e",
+  "lastOpenFiles": [
+    "Dataview 1a.md",
+    "Canvas Ideation.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Canvas Idea.md",
+    "Canvas/Book Dashboard.canvas",
+    "Canvas/Readme canvas.md",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Markdown/Markdown.md",
+    "Mind Map/IoT blockchain.md",
+    "Exercise 5.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Check box.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Dataview/Dataview 1.md",
+    "Dataview/👓 List of Papers.md",
+    "List of papers.md",
+    "1️⃣ Primary Sources/Shahizan 2020.md",
+    "1️⃣ Primary Sources/Pianka 1966.md",
+    "1️⃣ Primary Sources/Connell 1964.md",
+    "1️⃣ Primary Sources/Shabanov 2022b.md",
+    "1️⃣ Primary Sources/Dhekre 2023.md",
+    "Schmidt 2020.md",
+    "Exercise 3.md",
+    "Sukr 2015.md",
+    "Hazwani 2024.md",
+    "HazwaniHaris.md",
+    "__Templates/Daily Notes.md",
+    "__Papers/The Wheel of Sukr.pdf",
+    "__Media/Octalysis.png",
+    "__Media/Pasted image 20221214094010.png",
+    "__Media/Pasted image 20221202163803.png",
+    "Exercise 2",
+    "Pasted Image 20240204111318_119.jpg",
+    "__Media/Pasted image 20221214120446.png",
+    "__Media/Pasted image 20221214115955.png",
+    "__Papers/Waleed 2023.pdf",
+    "__Papers/Shahizan 2020.pdf",
+    "__Papers/Pianka 1966.pdf",
+    "__Papers/Dhekre 2023.pdf",
+    "__Papers/Connell 1964.pdf",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Start here.canvas",
+    "__Media/Zettelkasten steps.png",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "Pasted Image 20240202101844_201.png",
+    "__Media/Pasted Image 20240202095039_003.jpg"
+  ]
+}

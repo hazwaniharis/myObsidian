@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "SCTO/Hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "SCTO/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello.md",
+                "file": "SCTO/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello.md"
+                "file": "SCTO/Hello.md"
               }
             }
           }
@@ -146,8 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb09053da5678dca",
+  "active": "8cfc35bccb928c1e",
   "lastOpenFiles": [
-    "Hello.md"
+    "SCTO/Hello.md"
   ]
 }
